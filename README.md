@@ -1,3 +1,6 @@
+#
+# this is the fork of the original pixy2 repo, on my github account
+#
 Pixy2 README
 
 This directory contains:
