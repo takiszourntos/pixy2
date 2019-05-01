@@ -1,5 +1,5 @@
 #
-# this is the fork of the original pixy2 repo, on my github account
+# this is the fork of the original pixy2 repo, on my github account --- Takis Zourntos
 #
 Pixy2 README
 
